@@ -1,3 +1,6 @@
+This is my first Git Repository
+Author: prady
+
 - 👋 Hi, I’m @pradyphysics
 - 👀 I’m interested in developing and learning codes in Astrophysics. Specifically, my current interest is codes related to different aspects of neutron stars, gravitational waves, etc.
 - 🌱 I’m currently learning to develop codes in python. I am a beginner.
